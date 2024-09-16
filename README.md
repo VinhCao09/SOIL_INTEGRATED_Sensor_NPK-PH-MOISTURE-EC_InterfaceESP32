@@ -10,8 +10,9 @@ NPK soil sensor provides NPK, PH, MOISTURE, TEMPERATURE &amp; EC of soil interfa
 This all in one soil sensor can reflect seven elements of soil moisture content, electrical conductivity, temperature, nitrogen, phosphorus, potassium, and pH. Suitable for all kinds of soil. It can be widely used in water-saving irrigation, greenhouses, flowers and vegetables, grassland pastures, soil rapid testing, plant cultivation, sewage treatment, precision agriculture and other occasions.
 
 ## Technical parameter
-Power Supply | DC 4.5-30V | 
+Technical specifications | Parameter |
 --- | --- | 
+Power Supply | DC 4.5-30V | 
 Maximum power consumption| 0.5W (24V DC power supply) | 
 Working temperature| -30 to 70 oC| 
 Protection grade | IP68 | 
