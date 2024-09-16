@@ -1,7 +1,6 @@
 # SOIL_INTEGRATED_Sensor_NPK-PH-MOISTURE-EC_InterfaceESP32
 NPK soil sensor provides NPK, PH, MOISTURE, TEMPERATURE &amp; EC of soil interface ESP32.
 
-### Nếu bạn cần hỗ trợ đề tài này, đừng ngần ngại liên hệ mình để được hỗ trợ.
 
 ## Components
 - ESP32-DevKitC
