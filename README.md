@@ -16,6 +16,7 @@ Maximum power consumption| 0.5W (24V DC power supply) |
 Working temperature| -30 to 70 oC| 
 Protection grade | IP68 | 
 Output signal | RS485 (Modbus) |
+Respond time | <1s |
 
 https://www.htebd.com/npk-ph-ec-rs485-5-pin-sensor-7-in-1-for-agriculture/
 ## Datasheet
